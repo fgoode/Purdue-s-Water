@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "name": "The Problem",
+      "desc": "Purdue constantly denies the problems with the water, but students and faculty disagree. The Consumer Quality report says that Purdue is definitely not in violation of any levels of toxicities, but students are not satisfied with the quality of the drinking water. Despite Purdue having installed drinking fountains with water filters in them, these are often not up kept and the filters are mainly red, signaling that they need to be changed.",
+      "url": "https://www.purdueexponent.org/campus/article_801acf68-0a4f-5432-9e4c-f79c26a1c7db.html",
+      "img": "yuck.jpg"
+    },
+    {
+      "name": "Download our app today!",
+      "desc": "Download our app to see where the best water is.",
+      "url": "https://slides.com/winifi/purdue-s-water-2/live#/",
+      "img": "hydration station.jpg"
+    },
+    {
+      "name": "Come to our rally!",
+      "desc": "Come to the rally for all sorts of fun and free food! Learn about the quality of water here at Purdue whilst having a fun time with all of your friends.",
+      "url": "https://docs.google.com/drawings/d/1UCH_7WCMxPQ-Xl61YWoomLw9NQjduF4bqGHkxTGJMZc/edit?usp=sharing",
+      "img": "Untitled presentation (1)_burned.png"
+    },
+    {
+      "name": "Sign our petition",
+      "desc": "To get Purdue's attention about how we feel about the water, sign the petition and leave a comment about how you feel about the water.",
+      "url": "http://chng.it/TjJ69yByVG",
+      "img": "filter red.jpg"
+    }
+  ]
+}
