@@ -3,8 +3,8 @@ const colors = {
   coffee: '#000000',
   red: '#000000',
   lightRed: '#000000',
-  blue: '#406FC9',
-  lightBlue: '#406FC9'
+  blue: '#00A0D4',
+  lightBlue: '#00A0D4'
 }
 
 const font = '"IBM Plex Sans", system-ui, Roboto, sans-serif'
