@@ -1,10 +1,10 @@
 const colors = {
-  cream: '#EFE3D5',
-  coffee: '#1c140a',
-  red: '#DB3847',
-  lightRed: '#F75250',
-  blue: '#406FC9',
-  lightBlue: '#00A0D4'
+  cream: '#000000',
+  coffee: '#000000',
+  red: '#b1810b',
+  lightRed: '#b1810b',
+  blue: 'b1810b',
+  lightBlue: 'b1810b'
 }
 
 const font = '"IBM Plex Sans", system-ui, Roboto, sans-serif'
