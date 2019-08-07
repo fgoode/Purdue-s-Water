@@ -1,5 +1,5 @@
 const colors = {
-  cream: '##FFC72c',
+  cream: '#FFC72c',
   coffee: '#000000',
   red: '#000000',
   lightRed: '#000000',
