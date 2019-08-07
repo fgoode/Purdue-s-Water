@@ -1,6 +1,6 @@
 const colors = {
   cream: '#b1810b',
-  coffee: '#b1810b',
+  coffee: '#000000',
   red: '#000000',
   lightRed: '#000000',
   blue: '#406FC9',
